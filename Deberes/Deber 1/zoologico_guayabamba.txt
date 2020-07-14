@@ -1,0 +1,2 @@
+Ecuador;30;5.5;120 m2;8:00 am
+llama;cuy;mono;leon;elefante

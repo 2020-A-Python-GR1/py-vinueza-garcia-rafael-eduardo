@@ -34,8 +34,8 @@ def crear_zoologico():
         print("\nIngrese las caracteristicas del zoologico: ")
         try:
             pais_zoologico = input("\nPais del zoologico: ")
-            numero_especies_zoologico = input("\nNumero de especies: ")
-            precio_entrada_zoologico = input("\nPrecio de la entrada: ")
+            numero_especies_zoologico = int(input("\nNumero de especies: "))
+            precio_entrada_zoologico = float(input("\nPrecio de la entrada: "))
             area_zoologico = input("\nArea del zoologico: ")
             hora_apertura_zoologico = input("\nHora de apretura: ")
         except Exception as error:
