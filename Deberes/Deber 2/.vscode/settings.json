@@ -1,0 +1,6 @@
+{
+    "python.autoComplete.extraPaths": [
+    "./main.py"
+    ],
+    "python.pythonPath": "C:\\Users\\Equipo\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
+}
