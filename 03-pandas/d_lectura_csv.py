@@ -4,6 +4,8 @@ Created on Sat Jul 25 10:07:52 2020
 
 @author: Rafael
 """
+import numpy as np
+import pandas as pd
 
 path = "C://Users//Equipo//Documents//Gitkraken//py-vinueza-garcia-rafael-eduardo//03-pandas//data//artwork_data.csv"
 
